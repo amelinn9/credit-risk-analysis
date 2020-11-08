@@ -42,7 +42,7 @@ This model was only accurate for about 55% of the time. It is only slightly abov
 ### SMOTEENN Combination
 <p align="center"><img src="resources/smoteenn.png"></p>
 
-**Balanced Accuracy Score**: 0.65
+**Balanced Accuracy Score**: 0.65  
 **Precision Score**: High Risk = 0.01, Low Risk = 1.00  
 **Recall Score**: High Risk = 0.70, Low Risk = 0.59
 
